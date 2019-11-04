@@ -44,6 +44,9 @@
     <Compile Include="BinaryReaderEx.cs" />
     <Compile Include="BinaryWriterEx.cs" />
     <Compile Include="Message.cs" />
+    <Compile Include="MessageProcessCommunicator.cs" />
+    <Compile Include="MessageReceiver.cs" />
+    <Compile Include="MessageSender.cs" />
     <Compile Include="ObjectConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
